@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Sarabun', system-ui, sans-serif;
+  }
+  
+  body {
+    @apply bg-gray-50;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-white py-2 px-4 rounded-lg hover:bg-primary-dark transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-white text-primary border border-primary py-2 px-4 rounded-lg hover:bg-gray-50 transition-colors duration-200;
+  }
+} 
