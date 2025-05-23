@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thai-funeral-quiz/static/css/main.40c9ebb7.css",
-    "main.js": "/thai-funeral-quiz/static/js/main.eb986c70.js",
+    "main.js": "/thai-funeral-quiz/static/js/main.d8cdf568.js",
     "static/media/lifeCelebrator.png": "/thai-funeral-quiz/static/media/lifeCelebrator.1d1ab62e09183b694744.png",
     "static/media/peacefulSoul.png": "/thai-funeral-quiz/static/media/peacefulSoul.9cfbb07fd08e2c2a1838.png",
     "static/media/legacyGiver.png": "/thai-funeral-quiz/static/media/legacyGiver.2e2fb9bcd148bd94b987.png",
@@ -9,10 +9,10 @@
     "static/media/heartGuardian.png": "/thai-funeral-quiz/static/media/heartGuardian.2ba3464de72c300769f2.png",
     "index.html": "/thai-funeral-quiz/index.html",
     "main.40c9ebb7.css.map": "/thai-funeral-quiz/static/css/main.40c9ebb7.css.map",
-    "main.eb986c70.js.map": "/thai-funeral-quiz/static/js/main.eb986c70.js.map"
+    "main.d8cdf568.js.map": "/thai-funeral-quiz/static/js/main.d8cdf568.js.map"
   },
   "entrypoints": [
     "static/css/main.40c9ebb7.css",
-    "static/js/main.eb986c70.js"
+    "static/js/main.d8cdf568.js"
   ]
 }
